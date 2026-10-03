@@ -75,7 +75,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnirudhKakarlaML&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhKakarlaML&layout=compact&theme=github_dark&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=AnirudhKakarlaML&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AnirudhKakarlaML&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" />
 
 </div>
 
