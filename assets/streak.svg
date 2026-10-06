@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+  <style>
+    .n { font: 700 28px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
+    .l { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  </style>
+  <rect width="495" height="195" rx="4.5" fill="#0d1117"/>
+  <line x1="165" y1="28" x2="165" y2="170" stroke="#30363d"/>
+  <line x1="330" y1="28" x2="330" y2="170" stroke="#30363d"/>
+
+  <text class="n" x="82.5" y="79" text-anchor="middle">200</text>
+  <text class="l" x="82.5" y="114" text-anchor="middle">Total Contributions</text>
+  <text class="s" x="82.5" y="140" text-anchor="middle">Dec 6, 2025 - Present</text>
+
+  <circle cx="247.5" cy="71" r="40" fill="none" stroke="#58a6ff" stroke-width="5"/>
+  <path d="M247.5 19 c-6 6 -9 11 -5 17 c-4 -1 -6 -4 -6 -7 c-4 5 -4 12 2 16 c5 3 13 2 15 -5 c2 -6 -2 -12 -6 -21 z"
+        fill="#58a6ff" stroke="#0d1117" stroke-width="3"/>
+  <text class="n" x="247.5" y="81" text-anchor="middle">6</text>
+  <text class="l" x="247.5" y="140" text-anchor="middle">Current Streak</text>
+  <text class="s" x="247.5" y="162" text-anchor="middle">Oct 1 - Oct 6</text>
+
+  <text class="n" x="412.5" y="79" text-anchor="middle">9</text>
+  <text class="l" x="412.5" y="114" text-anchor="middle">Longest Streak</text>
+  <text class="s" x="412.5" y="140" text-anchor="middle">Dec 6, 2025 - Dec 14, 2025</text>
+</svg>
